@@ -7,5 +7,9 @@
 4. Institute for Artificial Intelligence, Peking University<br>
 5. College of Future Technology, Peking University</h4><br> 
 
-# USFlow
-Official code of USFlow - NeurIPS 2023
+
+This repository contains the official source code for our paper:
+
+Unsupervised Optical Flow Estimation with Dynamic Timing Representation for Spike Camera
+
+NeurIPS 2023
